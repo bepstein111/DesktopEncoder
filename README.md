@@ -1,0 +1,1 @@
+Simple jog wheel for one of them big ole spinners you can get on amazon/aliexpress. Often labeled as "Pulse Encoders/Generators," "CNC Pulse Encoders/Generators," or "Hand/Manual Encoders". They're usually 4/6 terminal devices with 100 indents/rotation, and come with bolts attached for easy mounting.
